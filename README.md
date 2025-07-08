@@ -1,7 +1,7 @@
-My name is Duong
+Interested in Web dev and Data Analysis
 ======================
 
-Interested in Web dev and Data Analysis
+
 ---------------------------------------
 
 ### Skills

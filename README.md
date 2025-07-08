@@ -1,4 +1,4 @@
-Hi 👋 My name is Duong
+My name is Duong
 ======================
 
 Interested in Web dev and Data Analysis
